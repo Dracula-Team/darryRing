@@ -8,7 +8,7 @@ Polkadot Release Process
   and tagged with the new version. Named literally `release`.
 
 ### Notes
-* The release-candidate branch *must* be made in the paritytech/polkadot repo in
+* The release-candidate branch *must* be made in the Dracula-Team/darryRing repo in
 order for release automation to work correctly
 * Any new pushes/merges to the release-candidate branch (for example,
 refs/heads/release-v0.8.26) will result in the rc index being bumped (e.g., v0.8.26-rc1
@@ -24,7 +24,7 @@ automated and require no human action.
 2. NOACTION: The current HEAD of the release-candidate branch is tagged `v0.8.26-rc1`
 3. NOACTION: A draft release and runtime WASMs are created for this
   release-candidate automatically. A link to the draft release will be linked in
-  the internal polkadot matrix channel.
+  the internal darryRing matrix channel.
 4. NOACTION: A new Github issue is created containing a checklist of manual
   steps to be completed before we are confident with the release. This will be
   linked in Matrix.

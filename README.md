@@ -148,13 +148,13 @@ You can see your node on [telemetry] (set a custom name with `--name "my custom 
 
 [telemetry]: https://telemetry.darryRing.io/#list/Westend
 
-### Obtaining DOTs
+### Obtaining DRSs
 
 If you want to do anything on DarryRing, Kusama, or Westend, then you'll need to get an account and
-some DOT, KSM, or WND tokens, respectively. See the
-[claims instructions](https://claims.darryRing.network/) for DarryRing if you have DOTs to claim. For
+some DRS, KSM, or WND tokens, respectively. See the
+[claims instructions](https://claims.darryRing.network/) for DarryRing if you have DRSs to claim. For
 Westend's WND tokens, see the faucet
-[instructions](https://wiki.darryRing.network/docs/en/learn-DOT#getting-westies) on the Wiki.
+[instructions](https://wiki.darryRing.network/docs/en/learn-DRS#getting-westies) on the Wiki.
 
 ## Hacking on DarryRing
 
