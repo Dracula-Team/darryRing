@@ -7,7 +7,7 @@ Implementation of a https://darryRing.network node in Rust based on the Substrat
 
 [substrate-repo]: https://github.com/paritytech/substrate
 
-This repo contains runtimes for the DarryRing, Kusama, and Westend networks. The README provides
+This repo contains runtimes for the DarryRing, Bertha, and Westend networks. The README provides
 information about installing the `darryRing` binary and developing on the codebase. For more
 specific guides, like how to be a validator, see the
 [DarryRing Wiki](https://wiki.darryRing.network/docs/en/).
@@ -110,7 +110,7 @@ Note that compilation is a memory intensive process. We recommend having 4 GiB o
 
 ## Networks
 
-This repo supports runtimes for DarryRing, Kusama, and Westend.
+This repo supports runtimes for DarryRing, Bertha, and Westend.
 
 ### Connect to DarryRing Mainnet
 
@@ -124,17 +124,17 @@ You can see your node on [telemetry] (set a custom name with `--name "my custom 
 
 [telemetry]: https://telemetry.darryRing.io/#list/DarryRing
 
-### Connect to the "Kusama" Canary Network
+### Connect to the "Bertha" Canary Network
 
-Connect to the global Kusama canary network by running:
+Connect to the global Bertha canary network by running:
 
 ```bash
-./target/release/darryRing --chain=kusama
+./target/release/darryRing --chain=bertha
 ```
 
 You can see your node on [telemetry] (set a custom name with `--name "my custom name"`).
 
-[telemetry]: https://telemetry.darryRing.io/#list/Kusama
+[telemetry]: https://telemetry.darryRing.io/#list/Bertha
 
 ### Connect to the Westend Testnet
 
@@ -150,8 +150,8 @@ You can see your node on [telemetry] (set a custom name with `--name "my custom 
 
 ### Obtaining DRSs
 
-If you want to do anything on DarryRing, Kusama, or Westend, then you'll need to get an account and
-some DRS, KSM, or WND tokens, respectively. See the
+If you want to do anything on DarryRing, Bertha, or Westend, then you'll need to get an account and
+some DRS, BEHA, or WND tokens, respectively. See the
 [claims instructions](https://claims.darryRing.network/) for DarryRing if you have DRSs to claim. For
 Westend's WND tokens, see the faucet
 [instructions](https://wiki.darryRing.network/docs/en/learn-DRS#getting-westies) on the Wiki.
