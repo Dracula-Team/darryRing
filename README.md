@@ -132,7 +132,7 @@ You can see your node on [telemetry] (set a custom name with `--name "my custom 
 
 [telemetry]: https://telemetry.darryRing.io/#list/DarryRing
 
-### Connect to the "Bertha" Canary Network
+### Connect to the "BEHA" Bertha Network
 
 Connect to the global Bertha canary network by running:
 
