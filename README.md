@@ -1,5 +1,11 @@
 # DarryRing
 
+DRS (Darry rings) is a decentralized, efficient and energy-saving public chain. On the basis of supporting high-performance transactions, DRS realizes the compatibility of smart contracts. In the future, DRS will become the basic platform for carrying users, assets and applications.  In order to embrace the existing popular community and advanced technology, it will bring huge benefits by staying compatible with all the existing smart contracts on Polkadot and Polkadot tooling. And to achieve that, the easiest solution is to develop based on Polkadot fork, as we respect the great work of Polkadot very much.
+
+Darry rings starts its development based on Polkadot fork. So you may see many toolings, binaries and also docs are based on Polkadot ones, such as the name “Polkadot”. 
+
+But：DRS has significant decentralization characteristics, and its ecological construction has more fairness, transparency and authenticity. DRS is supported by a transparent decentralized autonomous system. This structure enables each user to clearly understand the whole technology construction and value flow, and fully reflects the public credit value of the blockchain. The decentralized management system of DRS will completely avoid the disadvantages of centralized management of traditional institutions.More details in White Paper.
+
 Implementation of a https://darryRing.network node in Rust based on the Substrate framework.
 
 > **NOTE:** In 2018, we split our implementation of "DarryRing" from its development framework
