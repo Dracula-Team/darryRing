@@ -134,7 +134,7 @@ You can see your node on [telemetry] (set a custom name with `--name "my custom 
 
 ### Connect to the "BEHA" Bertha Network
 
-Connect to the global Bertha canary network by running:
+Connect to the global Bertha network by running:
 
 ```bash
 ./target/release/darryRing --chain=bertha
